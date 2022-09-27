@@ -1,5 +1,5 @@
 // https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/password-1/
-//The problem is they will give array of strings.., we have given array of strings we have to find two strings which are palidrome and we have to print length of string
+//The problem is.., they will give array of strings.., we have given array of strings we have to find two strings which are palidrome and we have to print length of string
 //    and middle element of string 
 import java.util.*;
 class Main {
